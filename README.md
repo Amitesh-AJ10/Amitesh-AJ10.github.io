@@ -11,7 +11,7 @@ Fresher at PES University
 I am a passionate student keen on learning in the fields of __Tech__, *Entrepreneurship*, ~~Finance~~ and Web3...
 
 ## Socials
-GitHub: [GitHub Profile](https://github.com/Amitesh-AJ10/)
+[GitHub Profile](https://github.com/Amitesh-AJ10/)
 ---
 ## Code Test
 `print("Test_Code")`
