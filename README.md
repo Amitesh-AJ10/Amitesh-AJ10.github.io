@@ -17,6 +17,7 @@ GitHub: [GitHub Profile](https://github.com/Amitesh-AJ10/)
 `print("Test_Code")`
 
 # Tech Stacks
+
 Python | JavaScript
 -----  | -----
 AIML | Website
