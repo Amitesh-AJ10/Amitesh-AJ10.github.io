@@ -7,16 +7,16 @@ Fresher at PES University
 ## Semester: 
 1st Sem
 
-# About Me
+## About Me
 I am a passionate student keen on learning in the fields of __Tech__, *Entrepreneurship*, ~~Finance~~ and Web3...
 
-# Socials
+## Socials
 GitHub: [GitHub Profile](https://github.com/Amitesh-AJ10/)
 ---
-# Code Test
+## Code Test
 `print("Test_Code")`
 
-# Tech Stacks
+## Tech Stacks
 
 Python | JavaScript
 -----  | -----
