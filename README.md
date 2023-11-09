@@ -10,6 +10,7 @@ Fresher at PES University
 ---
 # About Me
 I am a passionate student keen on learning in the fields of __Tech__, *Entrepreneurship*, ~~Finance~~ and Web3...
+
 ---
 # Socials
 - GitHub: [GitHub Profile](https://github.com/Amitesh-AJ10/)
