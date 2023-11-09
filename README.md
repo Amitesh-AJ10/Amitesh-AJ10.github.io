@@ -1,4 +1,4 @@
-<h1 align = "center">Who Am I?</h1>
+<h1 align = "center">Resume</h1>
 
 ## Name: 
 Amitesh Jammula
